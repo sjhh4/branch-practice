@@ -1,3 +1,3 @@
 # Hi Hello Annyeong!
 
-print("Hi Hello Annyeong! I'm Thor! I love my brother Loki")
+print("Hi Hello Annyeong! I'm Thor! I'm the God of Thunder and I love my brother Loki")
